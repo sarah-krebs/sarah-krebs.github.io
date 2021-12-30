@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sarah Krebs"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Sarah Krebs"
 description              : &description "Data Scientist @ Otto Group"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sarah-krebs-5b8169125"
+  linkedin         : "sarah-krebs-5b8169125"
   orcid            :
   pinterest        :
   soundcloud       :

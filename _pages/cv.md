@@ -1,17 +1,24 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-This is a short CV:
+##Education
+* **Master of Science in Physics** <span style="float:right;"> 2014 &ndash; 2016 </span><br/>
+  _Technical University of Dresden_ <span style="float:right;"> _Dresden, Germany_ </span><br/>
+* **Bachelor of Science in Physics** <span style="float:right;"> 2011 &ndash; 2014 </span><br/>
+  _Technical University of Dresden_ <span style="float:right;"> _Dresden, Germany_ </span><br/>
 
-* Since 2018: Data Scientist at [OSP (Otto Group Solution Provider)](https://www.osp.de/), Dresden
-* 2017 – 2018: Project Staff at [Know-Center](https://www.know-center.tugraz.at/), Graz
-* 2014 – 2016: MSc in Physics, Technical University of Dresden
-* 2011 – 2014: BSc in Physics, Technical University of Dresden
+##Experience
+
+* **Data Scientist** <span style="float:right;"> 10/2018 &ndash; Present </span><br/>
+  _OSP (Otto Group Solution Provider) GmbH_ <span style="float:right;"> _Dresden, Germany_ </span><br/>
+
+* **Project Staff in Knowledge Discovery Team** <span style="float:right;"> 01/2017 &ndash; 09/2018 </span><br/>
+  _Know-Center GmbH_ <span style="float:right;"> _Graz, Austria_ </span><br/>
 
 A more detailed version of my CV is available on request.
