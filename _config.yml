@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About me"
 title_separator          : "-"
 name                     : &name "Sarah Krebs"
-description              : &description "Data Scientist @ Otto Group"
+description              : &description "PhD Candidate @ LUHAI"
 url                      : https://sarah-krebs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sarah-krebs/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sarah Krebs"
   avatar           : "profile.jpg"
-  bio              : "Data Scientist @ Otto Group<br>Interested in Deep Learning"
-  location         : "Dresden, Germany"
+  bio              : "PhD Candidate @ LUHAI<br>Focusing on Automated Machine Learning"
+  location         : "Hannover, Germany"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=0NQ4_j4AAAAJ&hl=de&oi=ao"

@@ -8,18 +8,21 @@ redirect_from:
 ---
 
 ## Education
-* **Master of Science in Physics** <span style="float:right;"> 2014 &ndash; 2016 </span><br/>
-  _Technical University of Dresden_ <span style="float:right;"> _Dresden, Germany_ </span><br/>
+* **PhD Candidate**, Leibniz University Hannover <span style="float:right;"> 2022 &ndash; Present </span><br/>
 
-* **Bachelor of Science in Physics** <span style="float:right;"> 2011 &ndash; 2014 </span><br/>
-  _Technical University of Dresden_ <span style="float:right;"> _Dresden, Germany_ </span><br/>
+
+* **Master of Science**, Physics, TU Dresden <span style="float:right;"> 2014 &ndash; 2016 </span><br/>
+
+
+* **Bachelor of Science**, Physics, TU Dresden <span style="float:right;"> 2011 &ndash; 2014 </span><br/>
 
 ## Experience
 
-* **Data Scientist** <span style="float:right;"> 10/2018 &ndash; Present </span><br/>
-  _OSP (Otto Group Solution Provider) GmbH_ <span style="float:right;"> _Dresden, Germany_ </span><br/>
+* **Data Scientist**, OSP (Otto Group Solution Provider) GmbH
+ <span style="float:right;"> 10/2018 &ndash; 07/2022 </span><br/>
 
-* **Project Staff in Knowledge Discovery Team** <span style="float:right;"> 01/2017 &ndash; 09/2018 </span><br/>
-  _Know-Center GmbH_ <span style="float:right;"> _Graz, Austria_ </span><br/>
+
+* **Data Scientist**, Know-Center GmbH <span style="float:right;"> 01/2017 &ndash; 09/2018 </span><br/>
+
 
 A more detailed version of my CV is available on request.

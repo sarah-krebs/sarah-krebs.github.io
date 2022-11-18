@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 
-I am a Data Scientist at OSP Dresden (member of the Otto Group), utilizing machine learning to solve problems in retail and logistics. Previously, I completed a MSc in Physics at the Technical University of Dresden and worked on deep reinforcement learning for autonomous driving.
+I am a PhD candidate at LUHAI in Hannover. My research interests lie at the intersection of automated machine learning (AutoML) and interpretable machine learning.
 
-I am broadly interested in machine learning, especially in deep learning and reinforcement learning. I co-organize the [WiMLDS](http://wimlds.org/about-the-dresden-team/) (Women in Machine Learning & Data Science) Dresden Chapter.
+Before starting my PhD in 2022, I received a master’s degree in Physics from TU Dresden and worked on the application of machine learning to different problems in the industry for a few years.
