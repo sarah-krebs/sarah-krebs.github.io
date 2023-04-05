@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "About me"
 title_separator          : "-"
-name                     : &name "Sarah Krebs"
+name                     : &name "Sarah Segel"
 description              : &description "PhD Candidate @ LUHAI"
-url                      : https://sarah-krebs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sarah-segel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sarah-krebs/academicpages.github.io"
+repository               : "sarah-segel/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sarah Krebs"
+  name             : "Sarah Segel"
   avatar           : "profile.jpg"
   bio              : "PhD Candidate @ LUHAI<br>Focusing on Automated Machine Learning"
   location         : "Hannover, Germany"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sarah-krebs"
+  github           : "sarah-segel"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sarah-krebs-5b8169125"
+  linkedin         : "sarah-segel-5b8169125"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SarahKrebs"
+  twitter          : "SegelSarah"
   vine             :
   weibo            :
   xing             :
